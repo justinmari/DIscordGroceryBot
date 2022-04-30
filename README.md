@@ -1,1 +1,1 @@
-# DIscordGroceryBot
+# DiscordGroceryBot
